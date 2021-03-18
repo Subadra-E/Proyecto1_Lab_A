@@ -1,0 +1,3 @@
+/home/carmen/Desktop/pr1/build/CMakeFiles/rebuild_cache.dir
+/home/carmen/Desktop/pr1/build/CMakeFiles/paa_reader.dir
+/home/carmen/Desktop/pr1/build/CMakeFiles/edit_cache.dir
